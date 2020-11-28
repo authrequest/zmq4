@@ -16,7 +16,7 @@ Notable differences in here:
 package zmq4
 
 /*
-#include <zmq.h>
+#include <zmq4.h>
 #include <stdlib.h>
 
 #include "zmq4.h"
